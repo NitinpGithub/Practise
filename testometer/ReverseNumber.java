@@ -28,5 +28,7 @@ public class ReverseNumber {
 
         System.out.println(reverse);
 
+        Scanner s = new Scanner(System.in);
+
     }
 }
