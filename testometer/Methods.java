@@ -25,7 +25,7 @@ public class Methods
         int c = a*b;
         return c;
     }
-    
+
     public static void main(String[] args)
     {
         Methods m1 = new Methods();
