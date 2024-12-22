@@ -1,4 +1,4 @@
-package testometer;
+package P1;
 
 public class ReverseNumber {
     public static void main(String[] args) {

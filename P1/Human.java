@@ -1,4 +1,4 @@
-package testometer;
+package P1;
 
 public class Human {
     int i;
